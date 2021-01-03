@@ -3,6 +3,8 @@ import hashlib
 import hmac
 import requests
 import json
+import time
+
 
 API_KEY = your_api_key
 API_SECRET = your_api_secret_key
